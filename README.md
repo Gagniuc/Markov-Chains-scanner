@@ -4,4 +4,8 @@ The current JS application is a detector that uses two models, a model "+" that 
 
 Live demo: https://gagniuc.github.io/Markov-Chains-scanner/
 
-![screenshot](https://github.com/Gagniuc/Markov-Chains-scanner/blob/main/%5BG%5D%20Markov%20scanner.png)
+<kbd><img src="https://github.com/Gagniuc/Markov-Chains-scanner/blob/main/%5BG%5D%20Markov%20scanner.png" /></kbd>
+
+# References
+
+- <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
